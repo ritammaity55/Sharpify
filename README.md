@@ -2,10 +2,10 @@
 
 Sharpify is an image enhancement application powered by PicWish AI. It allows users to effortlessly enhance image quality using powerful AI-based tools — all through a sleek and responsive interface built with React.
 
-## Table of Contents
 
-- [Sharpify - AI-Powered Image Enhancer Application](#sharpify---ai-powered-image-enhancer-application)
-  - [Table of Contents](#table-of-contents)
+Live link: [Click here](https://sharpify-iota.vercel.app/)
+
+## Table of Contents
   - [Getting Started](#getting-started)
   - [Features](#features)
   - [Technologies Used](#technologies-used)
@@ -16,7 +16,7 @@ Sharpify is an image enhancement application powered by PicWish AI. It allows us
 1. **Clone the repository:**
 
     ```bash
-    git clone <repository_url>
+    git clone (https://github.com/ritammaity55/Sharpify.git)
     ```
 
 2. **Install dependencies:**
